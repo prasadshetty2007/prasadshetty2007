@@ -43,10 +43,8 @@ A web-based dashboard concept for monitoring healthcare/IoT data.
 
 **Tech:** HTML • CSS • JavaScript
 
-### 🔐 Keyless Locking System
-A Raspberry Pi Pico based project using a servo motor, LCD, buzzer and input controls.
 
-**Tech:** C • Raspberry Pi Pico • Wokwi
+
 
 ##
 ⭐ Learning • Building • Improving
